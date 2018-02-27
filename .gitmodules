@@ -1,0 +1,9 @@
+[submodule "libs/CoreString"]
+	path = libs/CoreString
+	url = https://github.com/AmazingCow-Libs/CoreString
+[submodule "libs/CoreAssert"]
+	path = libs/CoreAssert
+	url = https://github.com/AmazingCow-Libs/CoreAssert
+[submodule "libs/CoreColor"]
+	path = libs/CoreColor
+	url = https://github.com/AmazingCow-Libs/CoreColor
